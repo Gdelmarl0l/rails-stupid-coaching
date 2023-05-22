@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+.coucou {
+  background-color: yellowgreen;
+}
+
+a {
+  text-decoration: none !important;
+}
